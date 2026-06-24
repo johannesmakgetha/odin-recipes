@@ -1,5 +1,8 @@
 # Recipe Website
+
 ![Recipe](./img/recipe.jpg)
+
+
 A simple recipe website built with HTML and CSS. The website showcases recipes with ingredients, preparation steps, and images.
 
 ## Features
