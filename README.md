@@ -24,7 +24,7 @@ A simple recipe website built with HTML and CSS. The website showcases recipes w
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/johannesmakgetha/odin-recipes.git
 ```
 
 2. Open the project folder.
