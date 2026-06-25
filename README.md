@@ -31,11 +31,6 @@ git clone <repository-url>
 
 3. Launch `index.html` in your browser.
 
-## Usage
-
-Browse the recipes and follow the instructions provided for each dish.
-
-
 
 ## Image Credits
 
@@ -57,7 +52,7 @@ Images are used for educational and non-commercial purposes.
 
 ## Author
 
-Johannes Malefetsane 
+Johannes Makgetha
 
 ## License
 
